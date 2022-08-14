@@ -1,0 +1,3 @@
+Type of problems that can be solved using digit dp:
+    Type 1: Find the count of numbers x from [0, n] that satisfy the condition f(x)
+    Type 2: Find the count of numbers x from [L, R] that satisfy the condition f(x) => count of such numbers from [0, R] - count of such numbers from [0, L-1]
